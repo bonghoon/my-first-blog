@@ -25,7 +25,7 @@ SECRET_KEY = 'y_kg&(o%(+^ay1h@6_%v$-)xasqp@^)yds!9kmb)@xnplz2+#i'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['bonghoon.pythonanywhere.com']
 
 
 # Application definition
